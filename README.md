@@ -10,7 +10,7 @@
 ---
 
 ### 🧰 Tech & Tools
-<img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,astro,react,ts,nextjs,sentry,postgres,fastapi,python,sentry,supabase" />
+<img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,astro,react,ts,nextjs,sentry,postgres,fastapi,python,supabase" />
 
 ---
 
