@@ -5,7 +5,7 @@
 
 ### 🚀 Current Focus
 - 🔍 Building – The missing piece for every SaaS
-- 🤖 Prototyping with AI, Steel.dev, and realtime data pipelines
+- 🤖 Prototyping with AI Agents, Steel.dev, and realtime data pipelines
 
 ---
 
