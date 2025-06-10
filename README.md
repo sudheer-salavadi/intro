@@ -1,10 +1,10 @@
-<h1 align="center">Sudheer Salavad ✨</h1>
+<h1 align="center">Sudheer Salavadi </h1>
 <p align="center"><em>Design-led builder | AI-native product thinker | Ex-Target, Ex-OpenReplay</em></p>
 
 ---
 
 ### 🚀 Current Focus
-- 🔍 Building – The missing piece for every SaaS
+- ✨ Building – The missing piece for every SaaS
 - 🤖 Prototyping with AI Agents, Steel.dev, and realtime data pipelines
 
 ---
