@@ -1,5 +1,5 @@
 <h1 align="center">Sudheer Salavadi </h1>
-<p align="center"><em>Design-led builder | AI-native product thinker | Ex-Target, Ex-OpenReplay</em></p>
+<p align="center"><em>Design-led builder | AI-native product thinker | Ex-Target, Ex-Founding Designer @ OpenReplay</em></p>
 
 ---
 
