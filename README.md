@@ -1,5 +1,5 @@
 <h1 align="center">Sudheer Salavadi</h1>
-<p align="center"><em>Design-led builder | AI-native Product Thinker</em></p>
+<p align="center"><em>Design-Led Builder | AI-Native Product Thinker</em></p>
 
 ---
 - ✨ Building – The missing piece for every SaaS  
