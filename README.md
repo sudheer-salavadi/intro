@@ -1,22 +1,26 @@
-<h1 align="center">Sudheer Salavadi </h1>
-<p align="center"><em>Design-led builder | AI-native product thinker | Ex-Target, Ex-Founding Designer @ OpenReplay</em></p>
+<h1 align="center">Sudheer Salavadi</h1>
+<p align="center"><em>Design-led builder | AI-native Product Thinker</em></p>
 
 ---
-
-### 🚀 Current Focus
-- ✨ Building – The missing piece for every SaaS
-- 🤖 Prototyping with AI Agents, Steel.dev, and realtime data pipelines
+- ✨ Building – The missing piece for every SaaS  
+- 🤖 Spinning AI Agents, Steel.dev, and realtime data pipelines
 
 ---
 
 ### 🧰 Tech & Tools
-<img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,astro,react,ts,nextjs,sentry,postgres,fastapi,python,supabase" />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,astro,react,ts,nextjs,sentry,postgres,fastapi,python,supabase" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheer-salavadi&theme=gotham&show_icons=true&hide_border=false&layout=compact" />
 
 ---
 
 ### 🔗 Links & Activity
-- 💼 [LinkedIn](https://linkedin.com/in/sudheer-salavadi)
-- 🌐 [Personal Site](https://salavadi.online)
-- 🆇 [X](https://x.com/sudheersalavadi)
+- 💼 [LinkedIn](https://linkedin.com/in/sudheer-salavadi)  
+- 🌐 [Personal Site](https://salavadi.online)  
+- 🆇 [X/Twitter](https://x.com/sudheersalavadi)
+- 📷 [Unsplash](https://unsplash.com/@sudheersalavadi)
 
 ---
