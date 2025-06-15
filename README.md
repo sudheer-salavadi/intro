@@ -13,8 +13,6 @@
   <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,astro,react,ts,nextjs,sentry,postgres,fastapi,python,supabase" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheer-salavadi&theme=gotham&show_icons=true&hide_border=false&layout=compact" />
-
 ---
 
 ### 🔗 Links & Activity
