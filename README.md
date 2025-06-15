@@ -3,7 +3,7 @@
 
 ---
 - ✨ Building – The missing piece for every SaaS  
-- 🤖 Spinning AI Agents, Steel.dev, and realtime data pipelines
+- 🤖 Spinning AI Agents,and realtime data pipelines
 
 ---
 
