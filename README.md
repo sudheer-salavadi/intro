@@ -1,6 +1,3 @@
-<h1 align="center">Sudheer Salavadi</h1>
-<p align="center"><em>Design-Led Builder | AI-Native Product Thinker</em></p>
-
 <table align="center">
   <tr>
      <td>
