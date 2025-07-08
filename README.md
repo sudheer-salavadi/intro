@@ -12,5 +12,4 @@
 ### 🔗 Links & Activity
 - 💼 [LinkedIn](https://linkedin.com/in/sudheer-salavadi)  
 - 🌐 [Personal Site](https://salavadi.online)  
-- 🆇 [X/Twitter](https://x.com/sudheersalavadi)
 - 📷 [Unsplash](https://unsplash.com/@sudheersalavadi)
