@@ -1,11 +1,23 @@
 <h1 align="center">Sudheer Salavadi</h1>
 <p align="center"><em>Design-Led Builder | AI-Native Product Thinker</em></p>
 
-### 📟 Tech & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,tailwind,astro,react,ts,nextjs,sentry,postgres,fastapi,supabase" />
-</p>
+<table align="center">
+  <tr>
+     <td>
+       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudheer-salavadi&theme=dark" alt="Profile Details" />
+      </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudheer-salavadi&theme=dark" alt="Most Commit Language" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudheer-salavadi&theme=dark&utcOffset=0" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
 ---
 
